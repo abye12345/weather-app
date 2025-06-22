@@ -2,6 +2,10 @@
 
 A beautiful weather application that provides real-time weather information for Ethiopian cities using the OpenWeatherMap API with React and Axios.
 
+## Live Demo
+
+You can view the live application here: [https://abye12345.github.io/weather-app/](https://abye12345.github.io/weather-app/)
+
 ## Features
 
 - 🌍 Real-time weather data for Ethiopian cities
