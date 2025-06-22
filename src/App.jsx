@@ -7,7 +7,7 @@ import Learnmore from "./Learn/Learnmore";
 const App = () => {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/weather-app/">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
